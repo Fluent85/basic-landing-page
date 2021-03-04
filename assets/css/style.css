@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    color:rgb(149, 14, 14);
+    line-height: 1.6;
+}
+
+#nikeshowcase {
+    background-image: url('../images/whiteairmax3.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 0 20px;
+}
+
+#nikeshowcase h1 {
+    font-size: 50px;
+    line-height: 1.2;
+}
+
+#nikeshowcase p {
+    font-size: 20px;
+}
+
+#nikeshowcase .button {
+    font-size: 18px;
+    text-decoration: none;
+    color:rgb(149, 14, 14);
+    border: rgb(149, 14, 14) 1px solid;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+#nikeshowcase .button:hover {
+    background: rgb(14, 12, 12);
+    color: rgb(245, 240, 240);
+
+}
+
+#section-a {
+    padding: 20px;
+    background:rgb(149, 14, 14);
+    color: white;
+    text-align: center;
+}
+
+#section-b {
+    padding: 20px;
+    background:rgb(85, 83, 83);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+#section-c {
+    display: flex;
+}
+
+#section-c div {
+    padding: 20px;
+}
+
+#section-c .box-1, #seciton-c .box-3 {
+    background:rgb(149, 14, 14);
+    color: white;
+}
+
+#section-c .box-2 {
+    background:rgb(39, 39, 39);
+    color: white;
+}
+
+footer {
+    
+}
