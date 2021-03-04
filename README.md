@@ -13,7 +13,9 @@ Browse through the basic landing page.
 
 ## How to use
 
-Simply click the link below.  
+Simply click the link below. 
+
+https://fluent85.github.io/basic-landing-page/landingpage.html
 
 
 
