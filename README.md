@@ -3,7 +3,7 @@ This is a mobile friendly basic landing page that utilizes HTML and CSS.  This i
  
 ## Motivation
 
-Become more familar with HTML 5 and CSS3.  Build my skills as a developer.  The ultimate goal is to become a Front-end developer in 2021.  I will be doing projects from freecodecamp.org and other resources in order to obtain my first developer position.  I build a basic landing page to become more familiar with how a landing page is created with html and css.  This is also a simple example of a potential clients business landing page. 
+Become more familar with HTML 5 and CSS3.  Build my skills as a developer.  The ultimate goal is to become a Front-end developer in 2021.  I will be doing projects from freecodecamp.org and other resources in order to obtain my first developer position.  I built a basic landing page to become more familiar with how a landing page is created with html and css.  This is also a simple example of a potential clients business landing page. 
 
 ## Instructions
 
