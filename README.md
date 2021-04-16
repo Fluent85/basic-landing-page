@@ -32,4 +32,4 @@ HTML 5, CSS
 
 ## Credits
 
---Richard Tshabalal
+--Richard Tshabalala
